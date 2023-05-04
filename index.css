@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(236, 205, 255);
+}
+p{
+    font-size: 15px;
+}
+p:hover{
+    color: aqua;
+}
